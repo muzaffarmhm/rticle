@@ -29,7 +29,7 @@ export default function Navbar() {
             <nav className="flex lg:w-2/5 flex-wrap items-center text-base md:ml-auto">
               <Link
                 to="/"
-                className="mr-5 bg-green-300 p-2 rounded-3xl hover:bg-green-300 p-2 rounded-3xl"
+                className="mr-5 hover:bg-green-300 p-2 rounded-3xl hover:bg-green-300 p-2 rounded-3xl"
               >
                 Home
               </Link>
