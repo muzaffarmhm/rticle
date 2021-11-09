@@ -2,7 +2,7 @@
    ![Logo](https://i.ibb.co/4K2BbPb/logo1.png)
 
     
-# 🧾rticle.com
+# 🧾rticle.info
 
 A blog website where users can publish their articles and content to the web.
 
@@ -27,13 +27,13 @@ A blog website where users can publish their articles and content to the web.
 
   
 ## 🔗 Links
-[![Website](https://img.shields.io/badge/Our_website-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://rticle.com/)
+[![Website](https://img.shields.io/badge/Our_website-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://rticle.info/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 [![Instagram](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rticle21)
 
 
 ## 📖 Technologies Documentation
-- [MySQL](https://dev.mysql.com/doc/)
+- [MangoDB](https://dev.mysql.com/doc/)
 - [Express.js](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction)
 - [React](https://reactjs.org/)
 - [Node.js](https://nodejs.org/en/docs/)
@@ -46,7 +46,7 @@ A blog website where users can publish their articles and content to the web.
   
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://ibb.co/LY6H55g)
 
   
 ## Acknowledgements
